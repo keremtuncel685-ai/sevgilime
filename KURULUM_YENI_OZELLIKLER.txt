@@ -1,0 +1,13 @@
+CEREN CHAPTER 22 — YENİ ÖZELLİKLER
+
+1) index.html dosyasını Live Server ile aç.
+2) assets/foto1.jpg ... foto8.jpg: iPhone tarzı galeri (öneri 1080x1350 JPG).
+3) assets/nedenler/neden01.jpg ... neden22.jpg: 22 neden kartı (1080x1350 JPG).
+4) assets/videolar/video1.mp4 video2.mp4 video3.mp4: 9:16 H.264/AAC MP4 (1080x1920).
+5) assets/sarkimiz.mp3: Apple Music esintili oynatıcı ve üstteki müzik butonu aynı dosyayı çalar.
+6) surprises.js dosyasının başında togetherSince: boş bırakıldı. Gerçek başlangıç tarihini YYYY-MM-DDTHH:mm:ss biçiminde yaz.
+7) Gizli mektup metnini index.html içinde sxSecretModal bölümünden düzenleyebilirsin.
+8) Hediye mesajını index.html içinde sxGiftReveal bölümünden düzenleyebilirsin.
+9) Yıldız mesajları surprises.js içindeki messages dizisinde.
+10) İnternet bağlantısı olmadan da site çalışır; Google fontları için internet gerekir, yedek font tanımlıdır.
+11) iPhone Safari otomatik sesli oynatmaya izin vermediği için müzik kullanıcı dokunuşuyla başlar.

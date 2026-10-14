@@ -1,0 +1,6 @@
+CEREN — CHAPTER 22 / SİNEMATİK AÇILIŞ
+
+VS Code: Bu klasörü aç, index.html dosyasını Live Server ile başlat.
+Açılış yaklaşık 8.3 saniye sonunda Dünyama gir butonunu gösterir.
+Geç butonuyla hemen kapatabilirsin.
+Fotoğraflar ve müzik assets klasörüne eklenir.

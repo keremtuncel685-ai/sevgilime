@@ -1,0 +1,16 @@
+CEREN — ÜÇ VİDEO REHBERİ
+
+1. ZIP’i klasöre çıkar, VS Code ile klasörü aç.
+2. assets/videolar klasörüne video1.mp4, video2.mp4, video3.mp4 dosyalarını kopyala.
+3. Dosyaların isimleri birebir aynı olsun (örn: video1.mp4.mp4 olmasın).
+4. index.html dosyasını Live Server ile aç.
+5. 9:16 dikey MP4 H.264 + AAC; 1080x1920, mümkünse kısa ve sıkıştırılmış videolar kullan.
+6. Videolar otomatik başlamaz; dokununca sesli oynar. iPhone Safari playsinline desteği kullanıldı.
+7. Dosyalar boşken tasarlanmış kapak görüntüsü görünür.
+
+SIRALAMA
+video2.mp4 -> Fotoğraf galerisi hemen sonrası
+video1.mp4 -> 22 Neden hemen sonrası
+video3.mp4 -> 99 Dilde Seni Seviyorum sonrası, finalden önce
+
+Diğer bölümlere dokunulmadı.

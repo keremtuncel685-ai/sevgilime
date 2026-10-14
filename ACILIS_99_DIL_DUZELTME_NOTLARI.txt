@@ -1,0 +1,21 @@
+CEREN — CHAPTER 22 | AÇILIŞ VE 99 DİL ONARILDI
+
+NEDEN ÇALIŞMIYORDU?
+Önceki tek HTML önizlemesinde JavaScript kodları HTML gövdesinden önce çalışıyordu.
+Inline <script defer> normalde ertelenmez; açılış ve 99 dil bileşenleri bulunamıyordu.
+Yeni önizlemede bütün scriptler </body> öncesinde. VS Code projesinde dış scriptler defer ile yükleniyor, ayrıca DOM hazır olmasını bekliyor.
+
+KULLANIM
+1. Bu ZIP dosyasını çıkart, içindeki Ceren_Chapter22 klasörünü VS Code'da aç.
+2. index.html üzerinde Open with Live Server seç.
+3. Açılış 0-8.3 saniye arasında CEREN ve 22'yi gösterir, ardından Dünyama Gir.
+4. Aşağı kaydırınca 99 dilde seni seviyorum yaklaşık 6 saniyede belirir, sonra kelimeler kalp oluşturur.
+5. Kalbi Göster düğmesi animasyonu beklemeden kalbe geçirir.
+6. Siteyi internette yayınladıysan tüm yeni dosyaları tekrar yükle ve Safari'de sayfayı yenile.
+7. assets/nedenler/neden01.jpg ... neden22.jpg fotoğrafları (1080x1350 JPG).
+8. assets/foto1.jpg ... foto8.jpg anı fotoğrafları (1080x1350 JPG).
+9. assets/videolar/video1.mp4, video2.mp4, video3.mp4 (1080x1920 MP4 H.264/AAC).
+10. assets/sarkimiz.mp3 şarkı dosyası.
+11. surprises.js içinde togetherSince alanına ilişkinizin başlangıç tarihini yaz.
+
+Gerçek iPhone Safari cihaz testi henüz yapılmadı.

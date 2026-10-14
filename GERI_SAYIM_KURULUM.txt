@@ -1,0 +1,14 @@
+CEREN CHAPTER 22 — GERI SAYIM
+
+Hedef: 15 Ekim 2026, 00:00 Türkiye saati.
+Şifre yok. Süre bitince geri sayım kalkar, ardından sinematik açılış başlar.
+Siteyi önceden açan kişinin ekranında sayaç canlı güncellenir.
+
+GitHub Pages:
+1. ZIP'teki Ceren_Chapter22 klasörünün İÇİNDEKİ dosyaları deponun yayınlanan klasörüne yükle.
+2. index.html, countdown.css, countdown.js ve güncellenmiş intro.js birlikte yayınlanmalı.
+3. Mevcut kişisel fotoğraf, MP3 ve MP4 dosyalarını GitHub'da silme. Bu ZIP medya dosyalarını içermez.
+4. GitHub Pages güncellemesini bekle, Safari'de yenile.
+
+NOT: Bu bir görsel geri sayımdır, gerçek erişim güvenliği değildir.
+Kullanıcının cihaz saati değiştirilirse sayaç atlatılabilir.

@@ -1,0 +1,8 @@
+CEREN CHAPTER 22 - iPHONE + BILGISAYAR
+
+1. Bu klasoru VS Code ile acin.
+2. index.html dosyasini Live Server ile acin.
+3. Siyah 99 dil bolumune gelin, animasyonu izleyin veya KALBI GOSTER secin.
+4. Kalp ince kirmizi metinlerden olusur; ayri cizgi yoktur.
+5. Kalp boyutu: love99.css icinde .love99-heart / width.
+6. iPhone Safari icin siteyi HTTPS adresinde yayinlayin.

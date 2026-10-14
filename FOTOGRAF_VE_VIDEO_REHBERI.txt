@@ -1,0 +1,19 @@
+CEREN — CHAPTER 22 | KURULUM VE FOTOĞRAF REHBERİ
+
+1) VS Code > File > Open Folder > bu klasörü seç. index.html > Open with Live Server.
+2) 22 neden bölümüne fotoğraf eklemek için:
+   assets/nedenler/neden01.jpg  (1. kart)
+   assets/nedenler/neden02.jpg  (2. kart)
+   ...
+   assets/nedenler/neden22.jpg  (22. kart)
+3) FOTOĞRAF ÖLÇÜLERİ: Önerilen 1080 x 1350 px (4:5, dikey). JPG / sRGB.
+   720 x 900 px de uygundur; fotoğraf çerçeveyi doldurmak için kenarlardan kırpılabilir.
+   Görünür alan cihaz ekranına göre değişir, fotoğrafın ana kişisini ortada tut.
+4) Galerinin fotoğrafları: assets/foto1.jpg ... foto8.jpg
+   Ana fotoğraf: assets/biz.jpg | Müzik: assets/sarkimiz.mp3
+5) MP4 videoların: assets/videolar/animiz.mp4 gibi.
+   Bu sürümde MP4 klasörü hazırlanmıştır, oynatıcı eklenmedi (videolar otomatik görünmez).
+6) 99 dil yaklaşık 6 saniyede görünür; ardından yazılar kalp oluşturur.
+   Beyaz C küçültülmüş ve kalbin iç boşluğuna ortalanmıştır.
+7) intro.css / intro.js sinematik açılışın dosyalarıdır.
+8) Site çevrimdışı açılabilir fakat çevrimiçi fontlar yüklenmeyebilir.
