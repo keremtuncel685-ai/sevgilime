@@ -1,0 +1,6 @@
+MP4 videolarını buraya koy: assets/videolar/
+
+Örnek: animiz.mp4, surpriz.mp4.
+Önerilen: H.264 video + AAC ses, .mp4, 720p ya da 1080p, web için sıkıştırılmış.
+iPhone Safari için inline oynatma gerektiğinde video etiketine playsinline kullan.
+Bu klasör hazırdır, fakat henüz videoyu oynatan bölüm eklenmemiştir.

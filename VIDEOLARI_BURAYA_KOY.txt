@@ -1,0 +1,7 @@
+Bu klasöre 3 dikey MP4 video koy:
+video1.mp4 -> 22 NEDEN bölümünden sonra (Bizim Hikâyemiz)
+video2.mp4 -> FOTOĞRAF GALERİSİNDEN sonra (En Sevdiğim Anımız)
+video3.mp4 -> 99 DİL KALBİNDEN sonra, DOĞUM GÜNÜ FİNALİNDEN önce (Sana Son Bir Şey)
+
+Tavsiye: 1080x1920 (9:16), MP4 H.264 video + AAC ses.
+Adları birebir aynı yazın. Dosyalar yokken kapak alanı gözükür, dosyalar eklendiğinde oynat butonu çıkar.
