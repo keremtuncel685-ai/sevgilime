@@ -1,7 +1,7 @@
 /* Ceren — 15 October 2026, 00:00 Europe/Istanbul (UTC+03:00) */
 (function () {
   'use strict';
-  const target = Date.parse('2026-10-15T00:00:00+03:00');
+const target = Date.now() - 1000;
   const pad = n => String(n).padStart(2, '0');
   function initializeCountdown() {
     const root = document.documentElement;
