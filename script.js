@@ -8,17 +8,20 @@ const SITE = {
   name: "Ceren",
   relationshipMonths: 6,
   birthday: "2026-10-15",
-  heroPhoto: "assets/biz.jpg", // Kocaman tam ekran fotoğraf
-  song: "assets/sarkimiz.mp3", // MP3 dosyası eklemen yeterli
-  photos: [
-    { file: "assets/foto1.jpg", title: "Biz, yan yana", note: "İlk favorilerimden" },
-    { file: "assets/foto2.jpg", title: "Güzel bir gün", note: "Gülüşün hep böyle kalsın" },
-    { file: "assets/foto3.jpg", title: "Küçük mutluluklar", note: "Bize dair bir an" },
-    { file: "assets/foto4.jpg", title: "Sen gülünce", note: "Dünyam biraz daha güzel" },
-    { file: "assets/foto5.jpg", title: "En sevdiğim yer", note: "Yanında olmak" },
-    { file: "assets/foto6.jpg", title: "Dönüp bakınca", note: "İyi ki diyorum" },
-    { file: "assets/foto7.jpg", title: "Birlikte", note: "Daha nice anılara" },
-    { file: "assets/foto8.jpg", title: "Ve daha niceleri", note: "Hikâyemiz devam ediyor" }
+ 
+heroPhoto: "biz.jpg",
+song: "sarkimiz.mp3",
+photos: [
+  { file: "foto1.jpg", title: "Biz, yan yana", note: "İlk favorilerimden" },
+  { file: "foto2.jpg", title: "Güzel bir gün", note: "Gülüşün hep böyle kalsın" },
+  { file: "foto3.jpg", title: "Küçük mutluluklar", note: "Bize dair bir an" },
+  { file: "foto4.jpg", title: "Sen gülünce", note: "Dünyam biraz daha güzel" },
+  { file: "foto5.jpg", title: "En sevdiğim yer", note: "Yanında olmak" },
+  { file: "foto6.jpg", title: "Dönüp bakınca", note: "İyi ki diyorum" },
+  { file: "foto7.jpg", title: "Birlikte", note: "Daha nice anılara" },
+  { file: "foto8.jpg", title: "Ve daha niceleri", note: "Hikâyemiz devam ediyor" }
+],
+
   ],
   reasons: [
     "Gülüşün en sıradan günümü güzelleştiriyor.",
