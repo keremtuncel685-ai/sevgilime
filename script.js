@@ -136,11 +136,11 @@ function setupReasons() {
     card.setAttribute('aria-label',`${i + 1}. sevme nedeni, açmak için dokun`);
     const number = document.createElement('span');
     number.className = 'reason-number'; number.textContent = String(i + 1).padStart(2,'0');
-    // Her kartın kendi fotoğrafı: assets/nedenler/neden01.jpg ... neden22.jpg
+    // Her kartın kendi fotoğrafı: nedenler/neden01.jpg ... neden22.jpg
     const photoBox = document.createElement('span');
     photoBox.className = 'reason-photo';
     const photo = document.createElement('img');
-    photo.src = `assets/nedenler/neden${String(i + 1).padStart(2,'0')}.jpg`;
+    photo.src = `neden${String(i + 1).padStart(2,'0')}.jpg`;
     photo.alt = `${i + 1}. neden için fotoğraf`;
     photo.loading = 'lazy';
     photo.decoding = 'async';
