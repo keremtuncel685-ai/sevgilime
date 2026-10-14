@@ -1,0 +1,1 @@
+Yeni iPhone tarzı anı galerisi mevcut assets/foto1.jpg ... foto8.jpg dosyalarını kullanır. Ekstra fotoğraf koymana gerek yok.
