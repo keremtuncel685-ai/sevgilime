@@ -5,7 +5,7 @@ const $$=s=>Array.from(document.querySelectorAll(s));
 const settings={
   // İLİŞKİNİZİN GERÇEK BAŞLANGIÇ TARİHİNİ BURAYA YAZ: örnek '2026-04-15T19:00:00'
   // Tarih bilinmediği için boş bırakıldı; yanlış bir gün göstermiyoruz.
-  togetherSince:'',
+togetherSince: '2026-05-25T00:00:00',
   photos:Array.from({length:8},(_,i)=>`assets/foto${i+1}.jpg`)
 };
 function memoryGallery(){const strip=$('#sxFilmstrip');if(!strip)return;settings.photos.forEach((src,i)=>{const card=document.createElement('button');card.type='button';card.className='sx-memory';card.setAttribute('aria-label',`${i+1}. anıyı büyüt`);card.innerHTML=`<span class="sx-memory-fallback">♡</span><span class="sx-memory-info"><small>MEMORY ${String(i+1).padStart(2,'0')}</small><strong>${['Birlikte','Sen gülünce','Güzel günler','En sevdiğim an','Yan yana','İyi ki biz','Küçük mutluluklar','Daha nicelerine'][i]}</strong></span>`;const img=new Image();img.onload=()=>{img.alt=`Birlikte anımız ${i+1}`;card.prepend(img)};img.src=src;card.addEventListener('click',()=>{const modal=$('#photoModal');const target=$('#expandedPhoto');if(img.complete&&img.naturalWidth){target.src=src;$('#expandedCaption').textContent=`Bizim anımız · ${i+1}`;modal.classList.add('is-open');modal.setAttribute('aria-hidden','false');document.body.classList.add('modal-open')}else{card.querySelector('.sx-memory-info strong').textContent='Fotoğrafını ekle ♡'}});strip.appendChild(card)})}
